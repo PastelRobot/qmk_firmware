@@ -1,0 +1,12 @@
+OLED_ENABLE = yes
+OLED_DRIVER = SSD1306
+DEBOUNCE_TYPE = sym_eager_pk
+DYNAMIC_MACRO_ENABLE = yes
+NKRO_ENABLE = no
+RGBLIGHT_ENABLE = no
+RGB_MATRIX_ENABLE = yes
+LTO_ENABLE = yes
+COMMAND_ENABLE   = no # Commands for debug and configuration
+UNICODE_ENABLE   = no# Unicode
+MOUSEKEY_ENABLE  = no # Mouse keys(+4700)
+EXTRAKEY_ENABLE = no
