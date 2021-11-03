@@ -1,0 +1,3 @@
+EXTRAKEY_ENABLE = no
+DYNAMIC_MACRO_ENABLE = yes
+DEBOUNCE_TYPE = sym_eager_pk
